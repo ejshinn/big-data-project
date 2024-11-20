@@ -22,3 +22,6 @@
 * 한글 -> 영어 번역 구현
 * TF-IDF & 코사인 유사도 구현
 * 영화 추천 구현
+
+## ▶️ 발표 영상
+https://youtu.be/byvdrrS0cFs?si=Kld2TdzCeK_LObQL
