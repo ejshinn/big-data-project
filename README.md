@@ -24,4 +24,5 @@
 * 영화 추천 구현
 
 ## ▶️ 발표 영상
-https://youtu.be/byvdrrS0cFs?si=Kld2TdzCeK_LObQL
+https://github.com/user-attachments/assets/8c1516f7-265d-4813-9dba-0dbf6abf71fc
+
